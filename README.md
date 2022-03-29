@@ -14,4 +14,11 @@
 </div>
 <div id="schet" align="center">
   <img src="https://komarev.com/ghpvc/?username=Sitinger&style=flat-square&color=blue" alt=""/>
-  
+ 
+<h1>
+  WASSUP
+  <img src="https://media.giphy.com/media/6InGIyfwSIoIU/giphy.gif" width="40px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div> 
