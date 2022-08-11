@@ -35,14 +35,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="48" height="48"
-viewBox="0 0 48 48"
-style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#039BE5" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M33.1 13L24 13 24 17 28.9 17 28.6 21 24 21 24 25 28.4 25 28.1 29.5 24 30.9 24 35.1 31.9 32.5 32.6 21 32.6 21z"></path><path fill="#EEE" d="M24,13v4h-8.9l-0.3-4H24z M19.4,21l0.2,4H24v-4H19.4z M19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1-1.4L19.8,27z"></path></svg>&nbsp;
 
-<img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cG9seWdvbiBmaWxsPSIjZTdhNDJiIiBwb2ludHM9IjgsNSA0Miw1IDM4LDM5IDI1LDQzIDExLDM5Ij48L3BvbHlnb24+PHBvbHlnb24gZmlsbD0iI2YyYmYyMiIgcG9pbnRzPSIzOC42Myw4IDM1LjI1LDM2LjcxIDI1LDM5Ljg2IDI1LDgiPjwvcG9seWdvbj48cG9seWdvbiBmaWxsPSIjZmFmOWY4IiBwb2ludHM9IjI1LDIxIDI2LDIzIDI1LDI1IDE1Ljc5LDI1IDE2LjY0LDEyIDI1LDEyIDI2LDE0IDI1LDE2IDIxLjAzLDE2IDIwLjcsMjEiPjwvcG9seWdvbj48cG9seWdvbiBmaWxsPSIjZWJlYmViIiBwb2ludHM9IjI0LjksMzIuNTcgMjUsMzIuNTQgMjYsMzUgMjUsMzYuNzIgMjQuOTQsMzYuNzQgMTYuNjEsMzQuMzYgMTYuMDUsMjggMjAuMDcsMjggMjAuMzUsMzEuMjciPjwvcG9seWdvbj48cG9seWdvbiBmaWxsPSIjZmZmIiBwb2ludHM9IjM0LjA3LDIxIDMyLjUsMzQuNDIgMjUsMzYuNzIgMjUsMzIuNTQgMjguODMsMzEuMzYgMjkuNTcsMjUgMjUsMjUgMjUsMjEiPjwvcG9seWdvbj48cG9seWdvbiBmaWxsPSIjZmZmIiBwb2ludHM9IjM0LjkyLDE4IDMwLjkzLDE4IDMwLjY3LDE2IDI1LDE2IDI1LDEyIDM0LjEzLDEyIDM0LjMsMTMuMjYiPjwvcG9seWdvbj48L3N2Zz4="/>&nbsp;
  
- <img src="https://www.svgrepo.com/show/373535/css.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/373535/css.svg" title="CSS3" alt="Java" width="40" height="40"/>&nbsp;
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
