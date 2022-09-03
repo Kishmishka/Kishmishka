@@ -28,7 +28,6 @@
   - :student: I am a 3rd year student of the Institute in the direction of computer science
   - :spider_web: I am fond of web development
   - :man_technologist: I worked for some time as a junior developer at "KVANTRON". I wrote desktop applications in QT in C++ there
-  - :snake: I've been interested in Python lately
   - :exploding_head: I like to learn something new and solve complex problems
   
  ---
