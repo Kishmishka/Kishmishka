@@ -40,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/355081/js.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374061/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/373652/gulp.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
@@ -48,4 +49,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+
