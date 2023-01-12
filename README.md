@@ -48,4 +48,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="[https://cdn-icons-png.flaticon.com/512/6132/6132222.png](https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://icons8.ru/icon/UFF3hmipmJ2V/sql" title="C++" alt="C++" width="40" height="40"/>&nbsp;
