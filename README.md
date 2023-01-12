@@ -26,7 +26,7 @@
   - :ru: I'm from Russia
   - :wave: My name is Misha
   - :student: I am a 3rd year student of the Institute in the direction of computer science
-  - :spider_web: I am fond of web development
+  - :spider_web: I am fond of web development in particular frontend
   - :man_technologist: I worked for some time as a junior developer at "KVANTRON". I wrote desktop applications in QT in C++ there
   - :exploding_head: I like to learn something new and solve complex problems
   
@@ -48,3 +48,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="[https://cdn-icons-png.flaticon.com/512/6132/6132222.png](https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)" title="C++" alt="C++" width="40" height="40"/>&nbsp;
