@@ -40,7 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/355081/js.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-<img src="[https://www.flaticon.com/svg/vstatic/svg/6422/6422234.svg?token=exp=1676836915~hmac=30168e888212d53eef09ab6196d1e3e3](https://icons8.com/icon/nCj4PvnCO0tZ/typescript)" title="TS" alt="TS" width="40" height="40"/>&nbsp;
+<img src="https://icons8.com/icon/nCj4PvnCO0tZ/typescript" title="TS" alt="TS" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/plasticine/512/react.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374061/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
