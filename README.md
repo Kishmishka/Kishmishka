@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="301">
 </div>
 <div id="badges" align="center">
-  <a href="t-do.ru/misha_dianov">
+  <a href="https://t.me/misha_dianov">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white%22%20alt=%22Twitter%20Badge" alt="telegramm Badge"/>
   </a>
   <a href="https://vk.com/kishmi">
