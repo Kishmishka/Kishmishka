@@ -51,6 +51,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/ios-filled/256/c-sharp-logo.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 
-### :hammer_and_wrench: Languages and Tools :
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishmishka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
