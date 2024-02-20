@@ -25,7 +25,7 @@
    ### :man_technologist: About Me :
   - :ru: I'm from Russia
   - :wave: My name is Misha
-  - :student: I am a 3rd year student of the Institute in the direction of computer science
+  - :student: I am a 4rd year student of the Institute in the direction of computer science
   - :spider_web: I am fond of web development in particular frontend
   - :man_technologist: I worked for some time as a junior developer at "KVANTRON". I wrote desktop applications in QT in C++ there
   - :exploding_head: I like to learn something new and solve complex problems
