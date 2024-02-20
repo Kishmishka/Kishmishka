@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="301">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ4NjY3dTVyZzNxdGJkcXplb3k2Y2YwcWY0bTY3YTF5NjFmNmV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M1sRI7pdppnSGh8dg/giphy.gif" width="301">
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/misha_dianov">
